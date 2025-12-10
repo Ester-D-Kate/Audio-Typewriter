@@ -1,0 +1,17 @@
+{
+  "hotkeys": {
+    "start": "alt+c",
+    "stop": "alt+v",
+    "pause": "alt+space",
+    "cancel": "alt+esc",
+    "prompt": "alt+z"
+  },
+  "transcription": {
+    "workers": 2,
+    "max_retries": 3
+  },
+  "ui": {
+    "width": 360,
+    "height": 140
+  }
+}
